@@ -1,0 +1,159 @@
+/*AUTHOR:T.H Mohapi*/
+*{
+  margin: 0%;
+}
+
+.Heading{
+  text-align: center;
+  background-color: burlywood;
+  color: cadetblue;
+  position: inherit;
+}
+
+body{
+    background-color: darkolivegreen;
+}
+
+/* The Beginning of the Form*/
+
+h4{
+    color: bisque;
+    padding-left: 75px;
+    padding-bottom: 60px;
+ }
+ h2{
+     color: bisque;
+     padding-left: 65px;
+     padding-top: 20px;
+     font-size:medium;
+ }
+ 
+ .table{
+     color: #bbd71b;
+    
+ }
+ 
+ input,textarea{
+     background-color:#bdbdbd;
+     padding-bottom:20px;
+ }
+ td{
+     padding-top:10px;
+ }
+ input,textarea{
+     border: none;
+     border-bottom:1px solid #a1a1a1;
+ }
+ 
+ .message{
+     width:350px;
+     display: flex;
+ }
+ .table{
+     display: flex;
+     padding-left: 21%;
+     padding-top: 43px;
+     margin-top: 43px;
+  
+ }
+ table{
+     border-style: double;
+     border-radius: 40px;
+ }
+ 
+ span{
+     color:#ffffff;
+     font-weight:bold;
+ }
+ 
+ .container{
+     padding-top: 35px;
+ }
+ /*End of Form*/
+
+h3{
+    font-size: 40px;
+    color: bisque;
+    text-align: center;
+}
+
+h1{
+    margin: 40px;
+    text-decoration: underline;
+   
+}
+
+.documents{
+  
+    text-decoration: none;
+    font-size: 50px;
+    padding-left: 38.5%;
+}
+
+img{
+    height: 50%;
+    width: 50%;
+}
+
+a{
+    text-align: center;
+    padding-left: 33%;
+    margin-top: 30px;
+    color: cadetblue;
+    
+}
+
+.content{
+    background-color: rgb(67, 126, 80);
+    display: flex;
+    text-align: center;
+    margin-top: 110px;
+    padding-top: 100px;
+    border: #8b5353;
+    margin-left: 270px;
+    margin-right: 270px;
+    border-style: double;
+    border-radius: 30px;
+    padding-bottom: 30px;
+    border-width: 15px;
+}
+
+.first1{
+
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+.add{
+    padding-bottom: 40px;
+}
+
+.tail{
+   
+    margin-left: 480px;
+    margin-bottom: 30px;
+    display: flex;
+
+    
+}
+
+footer{
+    text-align: right;
+    color: #bbd71b;
+    font-size: 10px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+/*AUTHOR:T.H Mohapi*/
